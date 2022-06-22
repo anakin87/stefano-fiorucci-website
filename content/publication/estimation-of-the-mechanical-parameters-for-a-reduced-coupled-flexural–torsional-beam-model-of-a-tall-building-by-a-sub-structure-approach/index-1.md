@@ -49,9 +49,7 @@ tags:
 categories:
   - civil engineering
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+  filename: featured.jpg
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
