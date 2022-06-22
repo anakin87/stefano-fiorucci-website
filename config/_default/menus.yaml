@@ -10,6 +10,9 @@ main:
   - name: Work experience
     url: '#experience'
     weight: 20
+  - name: Education
+    url: '#education'
+    weight: 25    
   - name: Projects
     url: '#projects'
     weight: 30
