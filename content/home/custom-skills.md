@@ -12,9 +12,9 @@ design:
     image_darken: 0
 ---
 
-* Languages: Python, Java
-* Machine learning: Pandas, scikit-learn, H2O, Tensorflow (Keras), Ludwig, sklearn-crfsuite, streamlit
-* NLP: NLTK, Spacy, fastText, Huggingface’s Transformers, Haystack, BERTopic, Rubrix
-* Information extraction/retrieval: Scrapy, Tika, Tesseract, Camelot, Solr
-* API: Flask, FastAPI
+* **Languages:** Python, Java
+* **Machine Learning:** Pandas, scikit-learn, H2O, Tensorflow (Keras), Ludwig, sklearn-crfsuite, streamlit
+* **NLP:** NLTK, Spacy, fastText, Huggingface’s Transformers, Haystack, BERTopic, Rubrix
+* **Information extraction/retrieval:** Scrapy, Tika, Tesseract, Camelot, Solr
+* **API:** Flask, FastAPI
 * Bash, Docker
