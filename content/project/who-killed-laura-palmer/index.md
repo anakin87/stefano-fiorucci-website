@@ -5,9 +5,10 @@ date: 2022-06-22T15:45:30.438Z
 draft: false
 featured: true
 tags:
-  - Question Answering
-  - Dense passage retrieval
-  - Transformers
+  - question answering
+  - dense passage retrieval
+  - transformers
+  - Scrapy
   - Haystack
   - Faiss
   - Streamlit
