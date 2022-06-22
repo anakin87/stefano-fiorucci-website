@@ -19,6 +19,7 @@ links:
   - url: https://youtu.be/YI1EzRfAj_4?t=2919
     icon: youtube
     icon_pack: fab
+    name: Presentation
 image:
   filename: featured.png
   focal_point: Smart
