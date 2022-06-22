@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Machine learning engineer (NLP)
+    company: 01S Simplify our future
+    company_url: 'https://www.01s.it/'
+    location: Città di Castello (PG), Italy
+    date_start: '2018-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design, prototyping, development and deployment (Docker) of systems based on machine learning models, especially in the NLP field
+        * Semantic search systems
+        * Information extraction from raw data, such as PDF documents
+        * Crawlers for downloading data from various sources
+        * 💼 Customers: Comune di Milano, Comune di Palermo, Regione Umbria, Regione Siciliana, Polizia Municipale di Roma Capitale, Insurance Online...
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data scientist (internship)
+    company: Sentetic
+    location: Perugia, Italy
+    date_start: '2017-11-01'
+    date_end: '2018-01-01'
+    description: |2-
+      I participated in experimentation commissioned by Anas, aimed at developing a low-cost IOT+ML system for predictive maintenance of road infrastructure. Working with sensor data, I trained various neural network models in order to learn the “behavior” of the monitored infrastructure and report significant future deviations. The performance of these models completely satisfied Anas and opened the way for subsequent experiments.
 
 design:
   columns: '2'
