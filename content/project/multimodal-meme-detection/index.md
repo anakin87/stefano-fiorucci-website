@@ -18,11 +18,12 @@ links:
   - url: http://ceur-ws.org/Vol-2765/paper121.pdf
     name: Paper
   - url: https://vimeo.com/487841089
+    name: Presentation
     icon_pack: fab
     icon: vimeo
   - url: https://dankmemes2020.fileli.unipi.it/?page_id=1422
     name: Competition results
-    icon_pack: fab
+    icon_pack: emoji
     icon: trophy
 image:
   filename: ""
