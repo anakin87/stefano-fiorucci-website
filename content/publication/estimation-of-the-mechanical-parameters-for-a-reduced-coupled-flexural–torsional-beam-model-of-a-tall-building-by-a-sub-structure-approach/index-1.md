@@ -48,6 +48,8 @@ tags:
   - genetic algorithms
 categories:
   - civil engineering
+image:
+  filename: https://www.mdpi.com/applsci/applsci-11-04655/article_deploy/html/images/applsci-11-04655-g003.png
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
