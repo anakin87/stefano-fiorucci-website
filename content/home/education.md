@@ -31,7 +31,7 @@ experience:
     date_end: '2022-05-01'
     description: |2-
       Received a two-months full scholarship to participate at the School of Artificial Intelligence of Pi School. Selected among some of the brightest Engineers in the field, as a scholarship winner,
-      I worked on a project presented by a real client, developing a suite of NLP and information extraction tools for the healthcare domain.
+      I worked on a project presented by a real client, developing [a suite of NLP and information extraction tools for the healthcare domain](.//project/ai-augmented-medical-events/).
 
   - title: Data science Professional Master’s Programme 
     company: Università degli Studi di Perugia
