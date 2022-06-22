@@ -24,27 +24,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Machine learning engineer (NLP)
-    company: 01S Simplify our future
-    company_url: 'https://www.01s.it/'
-    location: Città di Castello (PG), Italy
-    date_start: '2018-04-01'
-    date_end: ''
+  - title: School of Artificial Intelligence
+    company: Pi School
+    company_url: 'https://picampus-school.com/programme/school-of-ai/'
+    date_start: '2022-03-01'
+    date_end: '2022-05-01'
     description: |2-
-        * Design, prototyping, development and deployment (Docker) of systems based on machine learning models, especially in the NLP field
-        * Semantic search systems
-        * Information extraction from raw data, such as PDF documents
-        * Crawlers for downloading data from various sources
-        * 💼 Customers: Comune di Milano, Comune di Palermo, Regione Umbria, Regione Siciliana, Polizia Municipale di Roma Capitale, Insurance Online...
+      Received a two-months full scholarship to participate at the School of Artificial Intelligence of Pi School. Selected among some of the brightest Engineers in the field, as a scholarship winner.
+I worked on a project presented by a real client, developing a suite of NLP and information extraction tools for the healthcare domain.
 
-  - title: Data scientist (internship)
-    company: Sentetic
-    location: Perugia, Italy
-    date_start: '2017-11-01'
-    date_end: '2018-01-01'
+  - title: Data science Professional Master’s Programme 
+    company: Università degli Studi di Perugia
+    date_start: '2017-02-01'
+    date_end: '2018-02-01'
     description: |2-
-      Development of a low-cost IOT+ML system for 🔧 predictive maintenance of road infrastructure.
-
+        Most relevant topics: Statistics, Machine learning (Simone Scardapane), Deep learning (Elisa Ricci), Big data tools (Todor Ivanov)
 design:
   columns: '2'
 ---
