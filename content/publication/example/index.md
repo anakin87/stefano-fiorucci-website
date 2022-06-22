@@ -35,7 +35,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication_short: ""
-url_source: ""
+url_source: "https://www.mdpi.com/2076-3417/11/10/4655"
 url_video: ""
 publication: In *Appl. Sci. 2021, 11(10), 4655*
 featured: true
@@ -45,10 +45,6 @@ title: " Estimation of the Mechanical Parameters for a Reduced Coupled
   Flexural–Torsional Beam Model of a Tall Building by a Sub-Structure Approach"
 tags: []
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
