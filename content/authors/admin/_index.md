@@ -2,14 +2,6 @@
 role: Machine learning engineer (NLP)
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Machine Learning
-  - NLP
-  - Information Retrieval
-hobbies:
-  positions:
-  - denomination: walk
-  - denomination: movies
 social:
   - icon: github
     icon_pack: fab
