@@ -37,10 +37,6 @@ abstract: >-
     model is used to obtain the response to stochastic loads.
 draft: false
 featured: false
-image:
-  filename: ""
-  focal_point: ""
-  preview_only: false
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
