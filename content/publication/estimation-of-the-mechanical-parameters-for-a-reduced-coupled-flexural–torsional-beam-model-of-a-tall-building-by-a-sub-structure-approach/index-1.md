@@ -49,12 +49,10 @@ tags:
 categories:
   - civil engineering
 image:
-  filename: featured.jpg
+  filename: featured.png
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
-    authors. [...] In this paper, a novel approach to calibrate the mechanical and
-    dynamical features of a complete 3D Timoshenko beam, i.e., describing bending,
-    shear and torsional behavior, is proposed.
+    authors. The main reason is the structural response estimation to stochastic loads, such as wind and earthquake, using a reduced number of degrees of freedom, which reduces the computational costs and therefore gives the designer an effective tool to explore a number of possible structural solutions. In this paper, a novel approach to calibrate the mechanical and dynamical features of a complete 3D Timoshenko beam, i.e., describing bending, shear and torsional behavior, is proposed.
 date: 2021-05-19T09:55:06.159Z
 ---
