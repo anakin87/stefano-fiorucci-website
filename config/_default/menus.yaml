@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Work experience
-    url: '#experience'
-    weight: 20
   - name: IT Skills
     url: '#custom-skills'
-    weight: 23    
+    weight: 15       
+  - name: Work experience
+    url: '#experience'
+    weight: 20 
   - name: Education
     url: '#education'
     weight: 25    
