@@ -5,13 +5,10 @@ date: 2018-09-01T14:48:02.238Z
 draft: false
 featured: true
 tags:
-  - Time series prediction
-  - MLP
-  - LSTM
-  - GRU
-  - Bayesian hyperparameter optimization
-  - InfluxDB
-  - Keras
+  - Classification
+  - Random forests
+  - H2O
+  - Scrapy
 categories:
   - Work projects
 links: []
