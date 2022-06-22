@@ -5,9 +5,9 @@ date: 2019-06-01T14:55:10.605Z
 draft: false
 featured: true
 tags:
-  - Semantic search
-  - Word sense disambiguation
-  - Word embeddings
+  - semantic search
+  - word sense disambiguation
+  - word embeddings
   - Aho–Corasick algorithm
   - NLTK
   - fastText
