@@ -9,7 +9,7 @@ authors:
   - Massimiliano Gioffrè
   - Vittorio Gusella
 publication: In *XIV conference of the Italian association for wind engineering
-  (IN-VENTO 2016), Terni, 25-28 settembre 2016 *
+  (IN-VENTO 2016), Terni, 25-28 settembre 2016*
 abstract: >-
   The overall dynamic behaviour of tall buildings can be estimated by means of
   equivalent beam models, and several ways of assessing this equivalence are
