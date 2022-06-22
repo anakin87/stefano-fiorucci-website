@@ -28,8 +28,8 @@ summary: "The use of equivalent beam models to estimate the dynamical
   dynamical features of a complete 3D Timoshenko beam, i.e., describing bending,
   shear and torsional behavior, is proposed."
 
-tags: [Civil Engineering, Tall buildings, Dynamics of Structures, Computational Mechanics]
-categories: [Civil Engineering]
+tags: [civil engineering, tall buildings, dynamics of structures, computational mechanics, Timoshenko beam, reduced-order models, environmental loads]
+categories: [civil engineering]
 featured: true
 
 slides: ""
@@ -50,7 +50,6 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication_short: ""
-url_source: "https://www.mdpi.com/2076-3417/11/10/4655"
 url_video: ""
 publication: In *Appl. Sci. 2021, 11(10), 4655*
 featured: true
@@ -58,7 +57,6 @@ date: 2021-05-19T00:00:00.000Z
 url_slides: ""
 title: " Estimation of the Mechanical Parameters for a Reduced Coupled
   Flexural–Torsional Beam Model of a Tall Building by a Sub-Structure Approach"
-tags: []
 projects: []
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
