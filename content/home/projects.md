@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
+<!--   filter_button:
     - name: All
       tag: '*'
     - name: Work
       category: Work projects
     - name: Personal
-      category: Personal projects
+      category: Personal projects -->
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
