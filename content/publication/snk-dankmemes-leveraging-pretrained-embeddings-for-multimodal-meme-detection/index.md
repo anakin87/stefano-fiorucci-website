@@ -30,7 +30,7 @@ tags:
 categories:
   - NLP
 image:
-  filename: dankmemes.jpeg
+  filename: featured.jpg
   preview_only: false
 date: 2020-12-17T11:42:30.864Z
 ---
