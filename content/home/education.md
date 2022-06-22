@@ -30,7 +30,7 @@ experience:
     date_start: '2022-03-01'
     date_end: '2022-05-01'
     description: |2-
-      Received a two-months full scholarship to participate at the School of Artificial Intelligence of Pi School. Selected among some of the brightest Engineers in the field, as a scholarship winner.
+      Received a two-months full scholarship to participate at the School of Artificial Intelligence of Pi School. Selected among some of the brightest Engineers in the field, as a scholarship winner,
       I worked on a project presented by a real client, developing a suite of NLP and information extraction tools for the healthcare domain.
 
   - title: Data science Professional Master’s Programme 
@@ -39,6 +39,14 @@ experience:
     date_end: '2018-02-01'
     description: |2-
         Most relevant topics: Statistics, Machine learning (Simone Scardapane), Deep learning (Elisa Ricci), Big data tools (Todor Ivanov)
+        
+  - title: Structural Engineering MSc
+    company: Università degli Studi di Perugia
+    date_end: '2015-07-15'
+    description: |2-
+        Thesis: Equivalent beam models for the dynamic analysis of tall buildings: estimation of modes through methods based on sub-structures and applications to dynamic analysis in the time domain (Supervisor Federico Cluni)
+
+        Main subjects: computational mechanics; dynamics of structures and anti-seismic design; design of prestressed concrete structures; bridge design; design of wooden and glass structures; structural rehabilitation; foundations
 design:
   columns: '2'
 ---
