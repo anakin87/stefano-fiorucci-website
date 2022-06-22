@@ -17,6 +17,8 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://github.com/anakin87/randstad-ai-challenge/blob/e7b7e1e5c1ccb2d76c2976a75a944fd6da08f866/slides.pdf
+    name: Slides
   - url: https://www.vgen.it/risultati-randstad-artificial-intelligence-challenge/
     name: Competition results
     icon: trophy
