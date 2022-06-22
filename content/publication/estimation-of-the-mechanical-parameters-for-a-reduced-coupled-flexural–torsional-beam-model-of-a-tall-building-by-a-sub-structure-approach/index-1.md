@@ -37,6 +37,16 @@ abstract: >-
     model is used to obtain the response to stochastic loads.
 draft: false
 featured: false
+categories:
+  - civil engineering
+projects:
+  - civil engineering
+  - dynamics of structures
+  - civil engineering
+  - tall buildings
+  - Timoshenko beam
+  - reduced-order models
+  - environmental loads
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
