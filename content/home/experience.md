@@ -41,7 +41,7 @@ experience:
     date_start: '2017-11-01'
     date_end: '2018-01-01'
     description: |2-
-      Development of a low-cost IOT+ML system for 🔧 predictive maintenance of road infrastructure.
+      Development of [SmartBridge](./project/smartbridge-sentetic/): a low-cost IOT+ML system for 🔧 predictive maintenance of road infrastructure.
 
 design:
   columns: '2'
