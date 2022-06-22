@@ -1,6 +1,6 @@
 ---
 role: Machine learning engineer (NLP)
-avatar_filename: ste.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
