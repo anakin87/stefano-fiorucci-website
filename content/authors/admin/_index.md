@@ -9,6 +9,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/stefano-fiorucci/
+  - icon: stack-overflow
+    icon_pack: fab
+    link: https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87    
 organizations:
   - name: 01S
     url: https://www.01s.it/
