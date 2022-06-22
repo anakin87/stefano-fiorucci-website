@@ -5,10 +5,10 @@ date: 2020-09-01T15:15:52.211Z
 draft: false
 featured: true
 tags:
-  - Multimodal classification
-  - Word embeddings
-  - Transformers
-  - Image embeddings
+  - multimodal classification
+  - word embeddings
+  - transformers
+  - image embeddings
   - Ludwig
   - fastText
   - Huggingface’s Transformers
