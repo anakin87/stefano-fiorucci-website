@@ -45,6 +45,7 @@ tags:
   - Timoshenko beam
   - reduced-order models
   - environmental loads
+  - genetic algorithms
 categories:
   - civil engineering
 summary: >-
