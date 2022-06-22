@@ -10,7 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
 
 * **Languages:** Python, Java
 * **Machine Learning:** Pandas, scikit-learn, H2O, Tensorflow (Keras), Ludwig, sklearn-crfsuite, streamlit
@@ -18,3 +17,4 @@ design:
 * **Information extraction/retrieval:** Scrapy, Tika, Tesseract, Camelot, Solr
 * **API:** Flask, FastAPI
 * Bash, Docker
+---
