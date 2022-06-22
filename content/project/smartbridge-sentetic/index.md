@@ -11,7 +11,7 @@ links:
   - url: https://www.youtube.com/watch?v=SBPrv2nl-_c
     icon: youtube
 image:
-  filename: https://pbs.twimg.com/media/DpyY5whXgAEDZ7o?format=jpg&name=medium
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
