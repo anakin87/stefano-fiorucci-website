@@ -1,8 +1,11 @@
 ---
-title: SmartBridge (Sentetic)
+title: SmartBridge
+subtitle: Sentetic
 date: 2018-02-01T15:32:26.422Z
 draft: false
 featured: true
+tags:
+  - prova
 categories:
   - Work projects
 links:
