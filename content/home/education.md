@@ -42,7 +42,7 @@ experience:
         
   - title: Structural Engineering MSc
     company: Università degli Studi di Perugia
-    date_start: '2006-10-01'
+    date_start: '2011-09-01'
     date_end: '2015-07-15'
     description: |2-
         Thesis: Equivalent beam models for the dynamic analysis of tall buildings: estimation of modes through methods based on sub-structures and applications to dynamic analysis in the time domain (Supervisor Federico Cluni)
