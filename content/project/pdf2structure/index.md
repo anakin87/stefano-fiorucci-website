@@ -5,9 +5,9 @@ date: 2020-06-01T14:59:47.278Z
 draft: false
 featured: true
 tags:
-  - Text classification
-  - Word embeddings
-  - Conditional Random Fields
+  - text classification
+  - word embeddings
+  - conditional random fields
   - fastText
   - auto-sklearn
   - sklearn-crfsuite
