@@ -44,11 +44,11 @@ header:
 footer:
   copyright:
     notice: '© {year} Stefano Fiorucci'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 
