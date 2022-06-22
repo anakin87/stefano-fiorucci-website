@@ -31,10 +31,17 @@ abstract: >-
   The results obtained with the proposed approach are finally compared both to standard Finite Element approach and to the modal approach with approximated modal shapes presented in Potzta and Kollar (2003).
 draft: false
 featured: true
-image:
-  filename: ""
-  focal_point: ""
-  preview_only: false
+tags:
+  - civil engineering
+  - dynamics of structures
+  - civil engineering
+  - tall buildings
+  - Timoshenko beam
+  - reduced-order models
+  - environmental loads
+  - wind engineering
+categories:
+  - civil engineering
 summary: >-
   The overall dynamic behaviour of tall buildings can be estimated by means of
   equivalent beam models [...]
