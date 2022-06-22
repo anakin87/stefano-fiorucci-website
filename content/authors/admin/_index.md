@@ -16,8 +16,6 @@ social:
 organizations:
   - name: 01S
     url: https://www.01s.it/
-education:
-  courses: []
 superuser: true
 highlight_name: true
 title: Stefano Fiorucci
