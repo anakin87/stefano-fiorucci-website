@@ -5,7 +5,7 @@ date: 2021-11-01T16:29:49.570Z
 draft: false
 featured: true
 tags:
-  - Text classification
+  - text classification
   - Naive Bayes
   - SVM
   - TF-IDF
