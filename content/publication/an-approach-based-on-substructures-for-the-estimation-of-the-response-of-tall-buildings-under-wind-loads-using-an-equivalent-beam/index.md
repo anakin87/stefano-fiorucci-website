@@ -30,7 +30,7 @@ abstract: >-
 
   The results obtained with the proposed approach are finally compared both to standard Finite Element approach and to the modal approach with approximated modal shapes presented in Potzta and Kollar (2003).
 draft: false
-featured: true
+featured: false
 tags:
   - civil engineering
   - dynamics of structures
