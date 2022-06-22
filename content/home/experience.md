@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work experience
 subtitle:
 
 # Date format for experience
@@ -41,7 +41,7 @@ experience:
     date_start: '2017-11-01'
     date_end: '2018-01-01'
     description: |2-
-      I participated in experimentation commissioned by Anas, aimed at developing a low-cost IOT+ML system for predictive maintenance of road infrastructure. Working with sensor data, I trained various neural network models in order to learn the “behavior” of the monitored infrastructure and report significant future deviations. The performance of these models completely satisfied Anas and opened the way for subsequent experiments.
+      I participated in experimentation commissioned by Anas, aimed at developing a low-cost IOT+ML system for 🔧 predictive maintenance of road infrastructure. Working with sensor data, I trained various neural network models in order to learn the “behavior” of the monitored infrastructure and report significant future deviations. The performance of these models completely satisfied Anas and opened the way for subsequent experiments.
 
 design:
   columns: '2'
