@@ -39,7 +39,7 @@ draft: false
 featured: false
 categories:
   - civil engineering
-projects:
+tags:
   - civil engineering
   - dynamics of structures
   - civil engineering
