@@ -5,8 +5,8 @@ date: 2018-09-01T14:48:02.238Z
 draft: false
 featured: true
 tags:
-  - Classification
-  - Random forests
+  - classification
+  - random forests
   - H2O
   - Scrapy
 categories:
