@@ -16,7 +16,7 @@ categories:
 links:
   - url: https://huggingface.co/spaces/anakin87/who-killed-laura-palmer
     name: Hugging Face Space
-    icon: face-smiling-hands
+    icon: hugs
     icon_pack: null
   - url: https://github.com/anakin87/who-killed-laura-palmer
     name: Code
@@ -24,8 +24,8 @@ links:
     icon: github
   - url: https://github.com/anakin87/who-killed-laura-palmer/blob/cc00d622398c482cc86c2e7937a56623c114b411/presentations/wklp_pycon.pdf
     name: Slides
-    icon_pack: null
-    icon: projector
+    icon_pack: fas
+    icon: person-chalkboard
 image:
   filename: featured.png
   focal_point: Smart
