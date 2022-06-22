@@ -28,9 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Work
-      tag: Work projects
+      category: Work projects
     - name: Personal
-      tag: Personal projects
+      category: Personal projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
