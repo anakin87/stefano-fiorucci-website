@@ -20,7 +20,7 @@ education:
   courses: []
 superuser: true
 highlight_name: true
-title: Stefano Fiorucci (anakin87)
+title: Stefano Fiorucci
 email: ""
 ---
 💻 I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields.
