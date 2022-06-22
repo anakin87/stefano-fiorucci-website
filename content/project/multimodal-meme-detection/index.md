@@ -23,7 +23,6 @@ links:
     icon: vimeo
   - url: https://dankmemes2020.fileli.unipi.it/?page_id=1422
     name: Competition results
-    icon_pack: emoji
     icon: trophy
 image:
   filename: featured.jpg
