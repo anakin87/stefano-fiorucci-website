@@ -7,9 +7,9 @@ title: IT Skills
 active: true
 design:
   columns: "1"
-  background:
+<!--   background:
     text_color_light: false
-    image_darken: 0
+    image_darken: 0 -->
 ---
 
 * **Languages:** Python, Java
