@@ -28,8 +28,6 @@ summary: The use of equivalent beam models to estimate the dynamical
   dynamical features of a complete 3D Timoshenko beam, i.e., describing bending,
   shear and torsional behavior, is proposed.
 
-tags: [civil engineering, tall buildings, dynamics of structures, computational mechanics, Timoshenko beam, reduced-order models, environmental loads]
-categories: [civil engineering]
 featured: true
 
 slides: ""
