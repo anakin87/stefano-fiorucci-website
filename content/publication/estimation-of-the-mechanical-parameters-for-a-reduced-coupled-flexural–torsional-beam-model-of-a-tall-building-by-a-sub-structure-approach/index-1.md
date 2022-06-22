@@ -36,9 +36,7 @@ abstract: >-
     static displacements. The closed form modal solution of the equivalent beam
     model is used to obtain the response to stochastic loads.
 draft: false
-featured: false
-categories:
-  - civil engineering
+featured: true
 tags:
   - civil engineering
   - dynamics of structures
@@ -47,6 +45,8 @@ tags:
   - Timoshenko beam
   - reduced-order models
   - environmental loads
+categories:
+  - civil engineering
 summary: >-
   The use of equivalent beam models to estimate the dynamical
     characteristics of complex tall buildings has been investigated by several
