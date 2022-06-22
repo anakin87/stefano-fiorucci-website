@@ -17,6 +17,21 @@ abstract: The use of equivalent beam models to estimate the dynamical
   calibrated by minimizing a suitable function of modal natural frequencies and
   static displacements. The closed form modal solution of the equivalent beam
   model is used to obtain the response to stochastic loads.
+# Summary. An optional shortened abstract.
+summary: "The use of equivalent beam models to estimate the dynamical
+  characteristics of complex tall buildings has been investigated by several
+  authors. The main reason is the structural response estimation to stochastic
+  loads, such as wind and earthquake, using a reduced number of degrees of
+  freedom, which reduces the computational costs and therefore gives the
+  designer an effective tool to explore a number of possible structural
+  solutions. In this paper, a novel approach to calibrate the mechanical and
+  dynamical features of a complete 3D Timoshenko beam, i.e., describing bending,
+  shear and torsional behavior, is proposed."
+
+tags: [Civil Engineering, Tall buildings, Dynamics of Structures, Computational Mechanics]
+categories: [Civil Engineering]
+featured: true
+
 slides: ""
 url_pdf: ""
 publication_types:
