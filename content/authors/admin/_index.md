@@ -26,6 +26,8 @@ email: ""
 
 ❤️ I love ML because it lies at the crossroads between programming craftsmanship and scientific research. I am fascinated by open problems. I am able to read and understand papers and combine ideas to create new solutions. I also enjoy turning prototypes into production-ready software so my work can have a **real impact** on people.
 
+I have successfully participated in some machine learning competitions and I like to contribute to open source...
+
 In my spare time:
 
 * I often take meditative walks 🚶‍♂️
