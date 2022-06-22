@@ -2,7 +2,7 @@
 widget: experience
 widget_id: education
 headless: true
-weight: 10
+weight: 30
 title: Education
 active: true
 design:
