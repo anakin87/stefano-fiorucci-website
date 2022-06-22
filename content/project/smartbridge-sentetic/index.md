@@ -5,7 +5,13 @@ date: 2018-02-01T15:32:26.422Z
 draft: false
 featured: true
 tags:
-  - prova
+  - Time series prediction
+  - MLP
+  - LSTM
+  - GRU
+  - Bayesian hyperparameter optimization
+  - InfluxDB
+  - Keras
 categories:
   - Work projects
 links:
