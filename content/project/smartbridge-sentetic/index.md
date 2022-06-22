@@ -18,9 +18,11 @@ links:
   - url: https://twitter.com/StradeAnas/status/1052884533400485889
     icon: twitter
     icon_pack: fab
+    name: Post
   - url: https://www.youtube.com/watch?v=SBPrv2nl-_c
     icon: youtube
     icon_pack: fab
+    name: Short video
 image:
   filename: featured.jpg
   focal_point: Smart
