@@ -16,7 +16,7 @@ categories:
   - Personal projects
 links:
   - url: https://huggingface.co/spaces/anakin87/who-killed-laura-palmer
-    name: Hugging Face Space
+    name: Demo! (🤗 Spaces)
     icon: hugs
     icon_pack: emoji
   - url: https://github.com/anakin87/who-killed-laura-palmer
