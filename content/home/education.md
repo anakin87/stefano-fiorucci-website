@@ -6,7 +6,7 @@ headless: true
 
 widget_id: education
 headless: true
-weight: 30
+weight: 45
 title: Education
 active: true
 design:
