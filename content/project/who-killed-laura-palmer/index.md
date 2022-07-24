@@ -23,8 +23,12 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://www.youtube.com/watch?v=V-c-qmDEJVg
+    icon: youtube
+    icon_pack: fab
+    name: PyCon 22 Presentation  
   - url: https://github.com/anakin87/who-killed-laura-palmer/blob/cc00d622398c482cc86c2e7937a56623c114b411/presentations/wklp_pycon.pdf
-    name: Slides
+    name: PyCon 22 Slides
     icon: person-chalkboard
     icon_pack: emoji
 image:
