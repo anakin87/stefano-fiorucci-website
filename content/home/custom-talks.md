@@ -2,7 +2,7 @@
 widget: blank
 widget_id: custom-talks
 headless: true
-weight: 25
+weight: 90
 title: Talks
 active: true
 design:
