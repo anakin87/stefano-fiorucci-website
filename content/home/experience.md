@@ -33,7 +33,7 @@ experience:
         * Semantic search systems
         * Information extraction from raw data, such as PDF documents
         * Crawlers for downloading data from various sources
-        * 💼 Customers: Comune di Milano, Comune di Palermo, Regione Umbria, Regione Siciliana, Polizia Municipale di Roma Capitale, Insurance Online...
+        * 💼 Customers: Municipality of Milan, Municipality and Police of Rome, Municipality of Palermo, Region of Umbria, Region of Sicily, Insurance Online...
 
   - title: Data scientist (internship)
     company: Sentetic

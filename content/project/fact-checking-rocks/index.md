@@ -13,6 +13,7 @@ tags:
   - Haystack
   - Faiss
   - Streamlit
+  - large language models
 categories:
   - Personal projects
 links:
@@ -24,6 +25,10 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://www.youtube.com/watch?v=bFwOTKXxKZ0
+    icon: youtube
+    icon_pack: fab
+    name: Haystack Project Highlight Presentation      
 image:
   filename: featured.png
   focal_point: Smart
@@ -35,3 +40,5 @@ This project aims to show that a naive and simple baseline for fact checking can
 - the relevant passages are retrieved from the knowledge base using dense retrieval
 - the system computes the text entailment between each relevant passage and the statement, using a Natural Language Inference model
 - the entailment scores are aggregated to produce a summary score.
+
+I also added the feature "Explain using a Large Language Model", which is based on prompting google/flan-t5-large!
