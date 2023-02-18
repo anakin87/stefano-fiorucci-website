@@ -47,7 +47,7 @@ experience:
     description: |2-
         106/110
         
-        Thesis: Equivalent beam models for the dynamic analysis of tall buildings: estimation of modes through methods based on sub-structures and applications to dynamic analysis in the time domain (Supervisor Federico Cluni)
+        Thesis: Equivalent beam models for the dynamic analysis of tall buildings: estimation of modes through methods based on sub-structures and applications to dynamic analysis in the time domain (Supervisor: Prof. Federico Cluni)
 
         Main subjects: computational mechanics; dynamics of structures and anti-seismic design; design of prestressed concrete structures; bridge design; design of wooden and glass structures; structural rehabilitation; foundations
 design:
