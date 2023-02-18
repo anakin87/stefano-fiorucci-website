@@ -8,8 +8,8 @@ tags:
   - question answering
   - transformers
   - electra
-  - squad
-  - squad-it
+  - SQuAD
+  - SQuAD-it
   - fine-tuning
   - Haystack
 categories:
@@ -27,15 +27,13 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-image:
-  filename: featured2.png
-  focal_point: Smart
-  preview_only: false  
+ 
 ---
 It is an Electra model for Extractive Question Answering on Italian texts.
 I fine-tuned the pre-trained model dbmdz/electra-base-italian-xxl-cased-discriminator on SQuAD-it dataset.
 
 **Strengths 🏋️‍**
+
 To date, the best publicly available model for Question Answering in Italian is it5/it5-large-question-answering by Gabriele Sarti and Malvina Nissim.
 Nevertheless, my model doesn't work badly: it has a comparable F1 score and, thanks to the simpler architecture, it has a small size.
 anakin87/electra-italian-xxl-cased-squad-it also works out-of-the-box in the open-source Haystack NLP framework: you can use this model and create a scalable Question Answering system that works across millions of documents.
