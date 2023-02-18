@@ -1,5 +1,5 @@
 ---
-role: Machine learning engineer | NLP craftsman | 🔎 Exploring Semantic / Neural / Vector Search
+role: Machine learning engineer | NLP craftsman | Semantic / Neural / Vector Search
 avatar_filename: avatar.jpg
 bio: ""
 social:
