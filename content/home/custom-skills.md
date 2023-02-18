@@ -14,7 +14,7 @@ design:
 
 * **Languages:** Python, Java
 * **Machine Learning:** Pandas, scikit-learn, H2O, Tensorflow (Keras), Ludwig, sklearn-crfsuite, streamlit
-* **NLP:** NLTK, Spacy, fastText, Huggingface’s Transformers, Haystack, BERTopic, Rubrix
+* **NLP:** NLTK, Spacy, fastText, Huggingface’s Transformers, Haystack, BERTopic, Argilla
 * **Information extraction/retrieval:** Scrapy, Tika, Tesseract, Camelot, Solr
 * **API:** Flask, FastAPI
 * Bash, Docker
