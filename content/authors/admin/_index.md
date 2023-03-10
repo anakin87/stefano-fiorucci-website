@@ -18,7 +18,7 @@ organizations:
 superuser: true
 highlight_name: true
 title: Stefano Fiorucci
-email: ""
+email: "📬 stefanofiorucci (at) gmail (dot) com"
 ---
 **TLDR**: Curious Machine learning Engineer, focused on NLP and Information Retrieval. 🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
 
