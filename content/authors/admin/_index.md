@@ -15,12 +15,14 @@ social:
 organizations:
   - name: 01S
     url: https://www.01s.it/
+  - name: 📬 stefanofiorucci (at) gmail (dot) com   
 superuser: true
 highlight_name: true
 title: Stefano Fiorucci
-email: "📬 stefanofiorucci (at) gmail (dot) com"
+email: ""
 ---
 **TLDR**: Curious Machine learning Engineer, focused on NLP and Information Retrieval. 🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
+
 
 💻 I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields.
 
