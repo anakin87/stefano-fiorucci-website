@@ -16,7 +16,7 @@ tags:
 categories:
   - Work projects
 links:
-  - url: https://youtu.be/YI1EzRfAj_4?t=2919
+  - url: https://youtu.be/YI1EzRfAj_4?t=2717
     icon: youtube
     icon_pack: fab
     name: Presentation
