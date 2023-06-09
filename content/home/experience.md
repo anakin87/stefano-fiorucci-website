@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.01s.it/'
     location: Città di Castello (PG), Italy
     date_start: '2018-04-01'
-    date_end: ''
+    date_end: '2023-06-10'
     description: |2-
         * Design, prototyping, development and deployment (Docker) of systems based on machine learning models, especially in the NLP field
         * Semantic search systems
