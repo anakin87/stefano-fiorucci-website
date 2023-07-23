@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer (NLP)
+    company: deepset
+    company_url: 'https://github.com/deepset-ai/haystack'
+    location: Remote
+    date_start: '2023-06-12'
+    description: |2-
+        * Contribute to Haystack, the open-source NLP/LLM Framework.
+        * Interact with and support the community.
+
   - title: Machine learning engineer (NLP)
     company: 01S Simplify our future
     company_url: 'https://www.01s.it/'
