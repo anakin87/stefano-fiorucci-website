@@ -25,6 +25,10 @@ links:
     name: Code
     icon_pack: fab
     icon: github
+  - url: https://www.youtube.com/watch?v=4L8Iw9CZNbU
+    icon: youtube
+    icon_pack: fab
+    name: Berlin Buzzwords 23 Presentation         
   - url: https://www.youtube.com/watch?v=bFwOTKXxKZ0
     icon: youtube
     icon_pack: fab
