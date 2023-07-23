@@ -13,8 +13,8 @@ design:
 ---
 
 * **Languages:** **Python**, Java
-* **Machine Learning:** Pandas, **scikit-learn**, H2O, fundamentals of TensorFlow (Keras) and PyTorch, Ludwig, sklearn-crfsuite, streamlit
-* **NLP:** NLTK, Spacy, **fastText**, **Huggingface’s Transformers**, **Haystack**, BERTopic, Argilla
+* **Machine Learning:** Pandas, **scikit-learn**, H2O, fundamentals of Keras, TensorFlow and PyTorch, Ludwig, streamlit
+* **NLP:** NLTK, **fastText**, **Hugging Face Transformers**, **Haystack**, BERTopic, Argilla
 * **Information extraction/retrieval:** Scrapy, Tika, Tesseract, Camelot, Solr
 * **API:** Flask, FastAPI
 * Bash, Docker
